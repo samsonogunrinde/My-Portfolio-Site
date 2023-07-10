@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap');
+
+body {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.container {
+  font-weight: 300;
+  margin: -30px auto 0;
+  /* padding: 100px; */
+  width: 100%;
+}
+
+img {
+  border: 5px solid #ffffff;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
+.h1 {
+  font-size: 80px;
+}
+
+.h2 {
+  font-size: 60px;
+}
+
+.h3 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.h1,
+.h2,
+.h3,
+.june {
+  color: #99d930;
+  font-weight: 900;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 300;
+}
+
+a {
+  color: #99d930;
+	text-decoration: none;
+}
+
+a:hover {
+  color: #131313;
+}
+
+#dss,
+h1,
+.read,
+.mmr {
+  color: #ffffff;
+}
+
+.first-div {
+  background: #252525;
+  padding: 100px;
+
+}
+
+.second-div {
+  background: #ffffff;
+  margin-top: -20px;
+  padding: 100px;
+}
+
+.third-div {
+  background: #252525;
+  margin-top: -20px;
+  padding: 100px;
+}
+
+button {
+  background: #99d930;
+  border: none;
+  border-radius: 5px;
+  color: #252525;
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+  width: 140px;
+  height: 60px;
+}
+
+button:hover, button:focus {
+  background: #ffffff;
+}
